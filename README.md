@@ -1,0 +1,3 @@
+# <img src="http://www.carlosicaza.com/wp-content/uploads/2014/07/Swift-logo.png" width="24"> Calculator ![training framgia](https://img.shields.io/badge/training-framgia-orange.svg)
+<img src="https://github.com/tienpx3010/Calculator/blob/master/Images/Portrait.png?raw=true" alt="" width="300px">
+<img src="https://github.com/tienpx3010/Calculator/blob/master/Images/Landspace.png?raw=true" alt="" width="600px">
